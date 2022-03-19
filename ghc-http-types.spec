@@ -6,7 +6,7 @@
 Summary:	Generic HTTP types for Haskell (for both client and server code)
 Name:		ghc-%{pkgname}
 Version:	0.12.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/http-types
